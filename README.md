@@ -1,4 +1,4 @@
-mixture_of_recursions, GOOGLE MOR                    
+Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Thinking, GOOGLE MOR                
                    
 import file:              
 
